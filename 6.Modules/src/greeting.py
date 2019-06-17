@@ -13,5 +13,7 @@ def bye():
 def howdy():
     print("Howdy, pal!")
     
+# This condition is true if the program runs directly
+# It's false if the file is imported as a module   
 if __name__ == '__main__':
-    print("This is my module")
+    print("You ran this program directly")
