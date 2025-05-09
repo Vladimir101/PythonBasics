@@ -1,1 +1,1 @@
-# PythonBasics - good code
+# PythonBasics - for my students
